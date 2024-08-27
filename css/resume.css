@@ -7,7 +7,7 @@ body {
   font-family: Helvetica, arial, sans-serif;
   font-size:        14px;
   line-height:      1.4em;
-  background-color: white;
+  background-color: black;
   padding-top:      10px;
   padding-bottom:   10px;
   padding-left:     25px;
@@ -43,7 +43,6 @@ h1, h2, h3, h4, h5, h6 {
   padding:      0;
   line-height:  1.4em;
   font-weight:  bold;
-  -webkit-font-smoothing: antialiased;
   cursor:       text;
   position:   relative; }
 
